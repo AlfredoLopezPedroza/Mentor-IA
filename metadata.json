@@ -1,0 +1,7 @@
+{
+  "name": "MentorIA: Your Personal AI Tutor",
+  "description": "An ultra-personalized AI tutor for Mexican middle school students. MentorIA uses your interests like video games and movies to explain academic concepts in a fun and engaging way, all through a real-time voice conversation.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
